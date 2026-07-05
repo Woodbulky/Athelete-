@@ -1,0 +1,6 @@
+{
+  "name": "Athlete OS",
+  "description": "AI-Powered Athlete Development Platform for cricketers and athletes to track daily metrics, cricket training, fitness, matches, and get evidence-based coaching insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
